@@ -1,0 +1,358 @@
+[
+  {
+    "state": "Pulau Pinang",
+    "name": "Hospital Pulau Pinang",
+    "code_name": "HPP",
+    "code_no": "A01",
+    "contact": "Tel: +604-222 5520 \nEmail: Not specified",
+    "webpage": "https://jknpenang.moh.gov.my/hpp/index.php/perkhidmatan-klinikal-hpp/perkhidmatan-diagnostik-hpp/jabatan-perubatan-nuklear-hpp",
+    "services": [
+      "SPECT",
+      "RAI"
+    ]
+  },
+  {
+    "state": "Pulau Pinang",
+    "name": "Penang Adventist Hospital",
+    "code_name": "ADV",
+    "code_no": "A02",
+    "contact": "Tel: +604-222 7439 / 7526\nEmail: nuclearmedicine@pah.com.my ",
+    "webpage": "https://pah.com.my/clinical-services/nuclear-medicine",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "PRRT",
+      "PSMA"
+    ]
+  },
+  {
+    "state": "Pulau Pinang",
+    "name": "Pusat Perubatan USM Bertam ",
+    "code_name": "IPPT",
+    "code_no": "A03",
+    "contact": "Tel: +604-562 2888\nEmail: Not specified",
+    "webpage": "https://ppusmb.usm.my/medical/nuclearmedicine",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI"
+    ]
+  },
+  {
+    "state": "Perak",
+    "name": "Sunway Medical Centre Ipoh",
+    "code_name": "SMI",
+    "code_no": "A04",
+    "contact": "Tel: +605-871 1919 / +6019-212 8181\nEmail: smci-enquiry@sunway.com.my",
+    "webpage": "https://www.sunwaymedicalipoh.com.my/en/#about",
+    "services": [
+      "SPECT",
+      "PET"
+    ]
+  },
+  {
+    "state": "Selangor",
+    "name": "Beacon Hospital",
+    "code_name": "BH",
+    "code_no": "A05",
+    "contact": "Tel: +603 7620 7979 / +603 7787 2992\nEmail: info@beaconhospital.com.my",
+    "webpage": "https://www.beaconhospital.com.my/specialty/nuclear-medicine/",
+    "services": [
+      "SPECT",
+      "PET",
+      "PRRT",
+      "PSMA",
+      "SIRT",
+      "RAI"
+    ]
+  },
+  {
+    "state": "Selangor",
+    "name": "KPJ Ampang Puteri Specialist Hospital",
+    "code_name": "KPJA",
+    "code_no": "A06",
+    "contact": "Tel: +603-2681 6222\nEmail: marketing@kpjhealth.com.my",
+    "webpage": "Not specified",
+    "services": [
+      "SPECT"
+    ]
+  },
+  {
+    "state": "Selangor",
+    "name": "Hospital Sultan Abdul Aziz Shah Universiti Putra Malaysia",
+    "code_name": "HPUPM",
+    "code_no": "A07",
+    "contact": "Tel: 03-97695 9563 / 9564\nEmail: nuclearimaging_hsaas@upm.edu.my",
+    "webpage": "https://hsaas.upm.edu.my/departments/nuclear_imaging_section-11899",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "PSMA"
+    ]
+  },
+  {
+    "state": "Selangor",
+    "name": "Subang Jaya Medical Centre",
+    "code_name": "SJMC",
+    "code_no": "A08",
+    "contact": "Tel: +603-5639 1250 / +603-5639 1537",
+    "webpage": "https://subangjayamedicalcentre.com/specialties/nuclear-medicine",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "PSMA",
+      "SIRT"
+    ]
+  },
+  {
+    "state": "Selangor",
+    "name": "Sunway Medical Centre",
+    "code_name": "SMC",
+    "code_no": "A09",
+    "contact": "Tel: +603-7494 1017 / 1016 \nEmail: smc@sunway.com.my",
+    "webpage": "https://www.sunwaymedical.com/en/centres-of-excellence/nuclear-medicine-centre",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "PSMA"
+    ]
+  },
+  {
+    "state": "Selangor",
+    "name": "Thomson Hospital Kota Damansara",
+    "code_name": "THKD",
+    "code_no": "A10",
+    "contact": "Tel: +603-6287 1111 \nEmail: enquiries@tmclife.com",
+    "webpage": "https://www.thomsonhospitals.com/all-specialties/nuclear-medicine/",
+    "services": [
+      "SPECT"
+    ]
+  },
+  {
+    "state": "Melaka",
+    "name": "Mahkota Medical Centre",
+    "code_name": "MMC",
+    "code_no": "A11",
+    "contact": "Tel: +606-285 2999\nEmail: not specified",
+    "webpage": "https://www.mahkotamedical.com/",
+    "services": [
+      "SPECT",
+      "PET"
+    ]
+  },
+  {
+    "state": "Johor",
+    "name": "Gleneagles Hospital Johor",
+    "code_name": "GMJB",
+    "code_no": "A12",
+    "contact": "Tel: +607-560 1000\nEmail: not specified",
+    "webpage": "https://gleneagles.com.my/johor",
+    "services": [
+      "SPECT",
+      "PET"
+    ]
+  },
+  {
+    "state": "Johor",
+    "name": "Hospital Sultanah Aminah",
+    "code_name": "HSA",
+    "code_no": "A13",
+    "contact": "Tel: : +607-2231 666 (ext 2060)\nEmail: Not specified",
+    "webpage": "https://jknjohor.moh.gov.my/hsajb/index.php/borang-jabatan-perubatan-transfusi/category/45-jabatan-nuklear",
+    "services": [
+      "SPECT",
+      "RAI"
+    ]
+  },
+  {
+    "state": "Johor",
+    "name": "KPJ Johor Specialist Hospital",
+    "code_name": "KPJJB",
+    "code_no": "A14",
+    "contact": "Tel: +607-225 3000\nEmail: jsh@jsh.kpjhealth.com.my",
+    "webpage": "https://kpjhealth.com.my/johor",
+    "services": [
+      "SPECT"
+    ]
+  },
+  {
+    "state": "Pahang",
+    "name": "Sultan Ahmad Shah Medical Centre @ IIUM",
+    "code_name": "UIA",
+    "code_no": "A15",
+    "contact": "Tel: +609-591 2500\nEmail: not specified",
+    "webpage": "https://sasmec.iium.edu.my/v2/index.php",
+    "services": [
+      "SPECT"
+    ]
+  },
+  {
+    "state": "Kelantan",
+    "name": "Hospital Pakar Universiti Sains Malaysia",
+    "code_name": "HPUSM",
+    "code_no": "A16",
+    "contact": "Tel: +609-767 6684\nEmail: jpnro@usm.my",
+    "webpage": "https://medic.usm.my/home-of-nuclear-medicine.html",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "BONE-P"
+    ]
+  },
+  {
+    "state": "Sarawak",
+    "name": "Bornea Medical Centre",
+    "code_name": "BMC",
+    "code_no": "A17",
+    "contact": "Tel: +6 082-507 333 \nEmail: admin@borneomedicalcentre.com",
+    "webpage": "https://www.borneomedicalcentre.com/en/nuclear-medicine-pet-ct/",
+    "services": [
+      "PET"
+    ]
+  },
+  {
+    "state": "Sarawak",
+    "name": "Hospital Umum Sarawak",
+    "code_name": "HUS",
+    "code_no": "A18",
+    "contact": "Tel: +082-276 666 (ext 6111)\nEmail: nuclear.medicine.sgh@gmail.com",
+    "webpage": "https://jknsarawak.moh.gov.my/hus/borang-permohonan-kajian-jabatan-perubatan-nuklear/",
+    "services": [
+      "SPECT",
+      "RAI",
+      "BONE-P"
+    ]
+  },
+  {
+    "state": "Sarawak",
+    "name": "Pusat Jantung Hospital Umum Sarawak",
+    "code_name": "PJHUS",
+    "code_no": "A19",
+    "contact": null,
+    "webpage": null,
+    "services": [
+      "SPECT",
+      "RAI",
+      "BONE-P"
+    ]
+  },
+  {
+    "state": "Sabah",
+    "name": "Hospital Wanita dan Kanak-kanak Sabah",
+    "code_name": "HWKKS",
+    "code_no": "A20",
+    "contact": "Tel: +088- 522 600 (ext 2142/2143)\nEmail: nuclearsabah@gmail.com",
+    "webpage": "https://jknsabah.moh.gov.my/hwkks/en/medical-services/dental-implant/jabatan-perubatan-nuklear",
+    "services": [
+      "SPECT",
+      "PET"
+    ]
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "name": "Hospital Kuala Lumpur",
+    "code_name": "HKL",
+    "code_no": "A21",
+    "contact": "Tel: +603-2615 5815 +603-2615 5836\nEmail: skan.nuklearhkl@moh.gov.my / nuklearpethkl@moh.gov.my",
+    "webpage": "https://hkl.moh.gov.my/mengenai-kami/jabatan/sokongan-klinikal/perubatan-nuklear",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "RSO",
+      "BONE-P"
+    ]
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "name": "Institut Jantung Negara",
+    "code_name": "IJN",
+    "code_no": "A22",
+    "contact": "Tel: +603-2617 8200\nEmail: ced@ijn.com.my",
+    "webpage": "https://www.ijn.com.my/center-of-excellence-diagnostic-imaging/",
+    "services": [
+      "SPECT"
+    ]
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "name": "Pantai Hospital Kuala Lumpur",
+    "code_name": "PHKL",
+    "code_no": "A23",
+    "contact": "Tel: +603-2296 0942 / 0944\nEmail: my.phkl.nucmed@parkwaypantai.com",
+    "webpage": "https://www.pantai.com.my/kuala-lumpur/centre-of-excellence/advance-nuclear-diagnostic-and-therapeutic-centre",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "RSO",
+      "BONE-P"
+    ]
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "name": "Prince Court Medical Centre ",
+    "code_name": "PCMC",
+    "code_no": "A24",
+    "contact": "Tel: +603-2160 0000 / 1-800-88-7262\nEmail: not specified",
+    "webpage": "https://princecourt.com/allied-health-services/nuclear-medicine",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "PRRT"
+    ]
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "name": "Hospital Canselor Tuanku Muhriz",
+    "code_name": "HCTM",
+    "code_no": "A25",
+    "contact": "Tel: +603-9145 5555\nEmail: prohukm@hctm.ukm.edu.my",
+    "webpage": "https://hctm.ukm.my/nuklear/",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "AC"
+    ]
+  },
+  {
+    "state": "W.P. Kuala Lumpur",
+    "name": "University Malaya Medical Center",
+    "code_name": "UMMC",
+    "code_no": "A26",
+    "contact": "Tel: +603-7949 4422\nEmail: ummc@ummc.edu.my",
+    "webpage": "https://umsc.my/specialty/biomedical-imaging/ \nhttps://www.ummc.edu.my/department/department_sub.asp?kodjabatan=1o0W2W7D&",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "PRRT",
+      "PSMA",
+      "RSO"
+    ]
+  },
+  {
+    "state": "W.P. Putrajaya",
+    "name": "Institut Kanser Negara",
+    "code_name": "IKN",
+    "code_no": "A27",
+    "contact": "Tel: +603-8892 5555 (ext 3118) / +603-8314 5501 \nEmail: nucmed@nci.gov.my / petct@nci.gov.my",
+    "webpage": "https://nci.moh.gov.my/index.php/ms/perkhidmatan/unit-t-cm/unit-perubatan-nuklear",
+    "services": [
+      "SPECT",
+      "PET",
+      "RAI",
+      "PRRT",
+      "PSMA",
+      "MIBG",
+      "BONE-P"
+    ]
+  }
+]
